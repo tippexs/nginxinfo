@@ -1,4 +1,5 @@
 ## NGINX Info
+![ngxinfo](https://user-images.githubusercontent.com/8117589/148759858-8bbf6b05-df52-40b0-909c-58dd386a8530.gif)
 
 Version `0.0.1 alpha`
 
